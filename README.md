@@ -1,20 +1,12 @@
 # pisi-web-site
-
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, minimum-scale=0.1">
-  <title>pisi-wiki_01.png (386×576)</title>
+  
+<html><head>
+<title> Pisi Linux Wiki </title>
+<meta content="text/html;CHARSET=iso-8859-9" http-equiv="Content-Type">
+<meta name="description" content="Pisi Linux Wiki, wiki, Pisi Linux English wiki, Pisi Linux TÃ¼rkÃ§e wiki, Pisi Linux Germany Wiki">
+<meta name="keywords" content="Pisi Linux Wiki, wiki, Pisi Linux English wiki, Pisi Linux TÃ¼rkÃ§e wiki, Pisi Linux Germany Wiki">
 </head>
-<body style="margin: 0px;"><img style="-webkit-user-select: none" src="http://wiki.pisilinux.org/pisi-wiki_01.png"></body>
-</body>
-</html>
+<body>
+<center><a href="http://wiki.pisilinux.org/tr/" title="Turkish Wiki"><img src="pisi-wiki_01.png" alt=""></a><a href="http://wiki.pisilinux.org/en/" title="English Wiki"><img src="pisi-wiki_02.png" alt=""></a></center>
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width,minimum-scale0.1">
-<title>pisi-wiki_02.png (382×576)</title>
-</head>
-<body style="margin: 0px;">
-<img style="-webkit-user-select: none;" src="http://wiki.pisilinux.org/pisi-wiki_02.png" width="382" height="576">
-</body>
-</html>
+</body></html>
